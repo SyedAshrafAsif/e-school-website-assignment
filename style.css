@@ -1,0 +1,190 @@
+.header-bg{
+    background-color: #F0FFF0;
+    height: 550px;
+}
+.header{
+    width: 1000px;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color:  #F0FFF0
+}    
+.nav-img{
+    width: 150px;
+    height: 50px;
+}
+.signin-button{
+    position: relative;
+    display: inline;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    background: #21B573;
+    border-radius: 33px;
+}
+.illustration-img{
+    width: 500px;
+    height: auto;
+    float: right;
+    position: absolute;
+    margin-top: 80px;
+    margin-right: 100px;
+}
+.top-text{
+    width: 500px;
+    height: auto;
+    float: left;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+#heading{
+    font-family: Poppins;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+}
+h1{
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+    color: #000000;
+}
+.getstarted-button{
+    position: absolute;
+    width: 153px;
+    height: 43px;  
+    border-radius: 33px;
+}
+.sec-icon{
+    height: 300px;
+    margin-top: 50px;
+}
+.card-area{
+    float: left;
+    width: 250px;
+height: 250px;
+background: #F8FFFB;
+border-radius: 10px;
+}
+.card-img{
+width: 66px;
+height: 85px;
+margin-top: 50px;
+margin-left: 92px;
+background: none;
+}
+div.card-area:hover{
+    background-color: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.card-h5{
+    text-align: center;
+    color: #413960;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+}
+.card-para{
+    text-align: center ;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
+.course-section{
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.course-heading{
+    text-align: center;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    color: #413960;
+}
+.card{
+    width: 350px;
+    height: 470px;
+    padding: 15px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+}
+.icon-adjust{
+    width: 30px;
+    height: 30px;
+}
+.icon-text{
+    float: left;
+    margin-top: 60px;
+}
+.testimonial{
+    width: 100%;
+    height: 450px;
+}
+#st-box { 
+    float:left; 
+    width:200px; 
+    height:200px;
+    background-color:white; 
+    border: none;
+    border-radius: 50%; 
+    margin-top: 50px;
+    margin-left: 250px;
+}
+#rd-box { 
+    float:right; 
+    width: 45%; 
+    height: auto; 
+    background-color:white; 
+    border: none;
+    margin-top: 70px;
+    margin-right: 100px;
+}
+.man-img{
+    width:200px; 
+    height:200px;
+}
+.dimension{
+    width: 100%;
+    height: 400px;
+    padding-left: 150px;
+    padding-top: 100px;
+    color: white;
+    background: darkslategray;
+}
+.form-dimension{
+    width: 100%;
+    height: 550px;
+    padding-left: 150px;
+    padding-top: 50px;
+    color: white;
+    background: #282531;
+}
+.input-box{
+    width: 300px;
+}
+#signup{ 
+    float:left; 
+    width:450px; 
+    height:400px;
+    border: none; 
+}
+#subscribe{
+    float: right; 
+    width: 350px; 
+    height: 200px; 
+    border: none; 
+    margin-right: 100px;
+}
+#copyright-align{
+    text-align: center;
+    color: white;
+    background: #282531;
+}
